@@ -1,0 +1,6 @@
+{
+  "name": "കൂട്ടുകാരൻ AI",
+  "description": "മലയാളം മീഡിയം സ്കൂൾ വിദ്യാർത്ഥികൾക്കായി ശാസ്ത്ര-സാങ്കേതിക ആശയങ്ങൾ ലളിതവും രസകരവുമായ ഉദാഹരണങ്ങളിലൂടെ വിശദീകരിക്കുന്ന ഒരു ഉത്തമ കൂട്ടുകാരൻ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
